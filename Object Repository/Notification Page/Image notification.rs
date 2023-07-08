@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Image notification</name>
+   <tag></tag>
+   <elementGuidId>95a32db0-c7ff-42ab-8bb5-7050aee242fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[contains(@src,'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ccc4eb029afb4b9a3d8912d5559403353ffc68f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFHQWFRR0EiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--2a694e1c03f69083feb3058bb2c93caaa920a289/KOdeku%20logo.png')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.p-5.notification-list > li > a.notification.my-4.px-2.position-relative > img.notification-image.rounded-4.overflow-hidden.me-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5e22ed0a-1bcb-49dd-9d43-cc4918f1f276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-image rounded-4 overflow-hidden me-4</value>
+      <webElementGuid>7df5fd9b-224f-4753-9d7f-1a4a1c76010d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ccc4eb029afb4b9a3d8912d5559403353ffc68f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFHQWFRR0EiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--2a694e1c03f69083feb3058bb2c93caaa920a289/KOdeku%20logo.png</value>
+      <webElementGuid>6689a8c7-3fc0-4fd5-8504-474ed559e8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;p-5 notification-list&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/img[@class=&quot;notification-image rounded-4 overflow-hidden me-4&quot;]</value>
+      <webElementGuid>446310e9-f119-40fa-9a5f-d063596a5ce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ccc4eb029afb4b9a3d8912d5559403353ffc68f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFHQWFRR0EiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--2a694e1c03f69083feb3058bb2c93caaa920a289/KOdeku%20logo.png')])[2]</value>
+      <webElementGuid>b416de5c-8259-40b4-83bb-4a3bb1154e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li/a/img</value>
+      <webElementGuid>46f25356-2998-470b-9f12-49905f32ec40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ccc4eb029afb4b9a3d8912d5559403353ffc68f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFHQWFRR0EiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--2a694e1c03f69083feb3058bb2c93caaa920a289/KOdeku%20logo.png']</value>
+      <webElementGuid>4315ed59-cc1e-4790-81e8-2cfc4fa185fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
