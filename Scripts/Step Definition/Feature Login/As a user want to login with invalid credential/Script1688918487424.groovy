@@ -3,7 +3,6 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.katalon.Runner as Runner
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -18,5 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('Include/features')
+WebUI.callTestCase(findTestCase('common/Launch Browser'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('common/Navigate To Url'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('pages/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.WrongUserName], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('pages/User Login/Input Password'), [('password') : GlobalVariable.WrongPassword], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('common/Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 

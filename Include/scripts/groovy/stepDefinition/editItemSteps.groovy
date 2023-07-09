@@ -43,17 +43,42 @@ import cucumber.api.java.en.Then
 import cucumber.api.java.en.When
 
 
+class editItemSteps {
 
-class common {
-	@Given("As a user launch browser and navigate to url {string}")
-	public void user_launch_browser_and_navigate_to_url(String string) {
-		WebUI.openBrowser('')
-		WebUI.maximizeWindow()
-		WebUI.navigateToUrl(string)
+	@When("As a user click button masuk")
+	public void user_click_button_masuk() {
+		WebUI.callTestCase(findTestCase('pages/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("As a user close browser")
-	public void user_close_browser() {
-		WebUI.closeBrowser()
+
+	@When("As a user input email with {string}")
+	public void user_input_email_with(String email) {
+		WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.username], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("As a user input password with {string}")
+	public void user_input_password_with(String password) {
+		WebUI.callTestCase(findTestCase('pages/User Login/Input Password'), [('password') : GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("As a user click button login")
+	public void user_click_button_login() {
+		WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("As a user click navbar menu")
+	public void user_click_navbar_login() {
+		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Navbar'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@Then("As a user want to click product")
+	public void as_a_user_want_to_click_product() {
+		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Product'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("As a user verify url should be equals with {string}")
+	public void user_verify_url_should_be_equals_with(String string) {
+		// Write code here that turns the phrase above into concrete actions
+
 	}
 }
