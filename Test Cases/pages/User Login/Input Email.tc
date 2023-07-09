@@ -9,12 +9,12 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>1b1ca168-4ea1-42fd-b2b1-cdc0a794069a</variableId>
+      <variableId>648101a3-0548-402a-b06b-1224de442ffc</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'sitinajmiaihvasyani@gmail.com\r\n'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
-      <id>1b1ca168-4ea1-42fd-b2b1-cdc0a794069a</id>
+      <id>648101a3-0548-402a-b06b-1224de442ffc</id>
       <masked>false</masked>
       <name>email</name>
    </variable>

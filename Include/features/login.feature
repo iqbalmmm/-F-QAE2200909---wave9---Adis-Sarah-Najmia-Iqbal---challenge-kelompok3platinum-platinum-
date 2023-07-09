@@ -17,16 +17,16 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: Edit Item
-  As a user want to test edit item feature
+Feature: Login
+  As a user want to test login feature
 
   @positive
   Scenario: LOG-001 username want login with you1@gmail.com
-  	Given user launch browser and navigate to url "https://secondhand.binaracademy.org/"
+  	Given As a user launch browser and navigate to url "https://secondhand.binaracademy.org/"
   	When user click button masuk
   	When user input email with "sitinajmiaihvasyani@gmail.com"
   	And user input password with "studentqa123"
   	Then user click button login 
   	And user verify url should be equals with "https://secondhand.binaracademy.org/"
-  	And user close browser 
+  	And As a user close browser 
  
