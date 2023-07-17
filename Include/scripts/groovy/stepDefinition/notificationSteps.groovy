@@ -43,56 +43,63 @@ import cucumber.api.java.en.Then
 import cucumber.api.java.en.When
 
 
-class editItemSteps {
+class notificationSteps {
 
-	@When("As a user click button masuk")
-	public void user_click_button_masuk() {
+	//	@Given("user launch browser and navigate to url {string}")
+	//	public void user_launch_browser_and_navigate_to_url(String string) {
+	//		// Write code here that turns the phrase above into concrete actions
+	//
+	//	}
+
+	@When("as user click button masuk")
+	public void as_user_click_button_masuk() {
 		WebUI.callTestCase(findTestCase('pages/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-
-	@When("As a user input email with {string}")
-	public void user_input_email_with(String email) {
-		WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.username], FailureHandling.STOP_ON_FAILURE)
+	@When("as user input email with {string}")
+	public void as_user_input_email_with(String string) {
+		WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.username], FailureHandling.STOP_ON_FAILURE);
 	}
 
-	@When("As a user input password with {string}")
-	public void user_input_password_with(String password) {
+	@When("as user input password with {string}")
+	public void as_user_input_password_with(String string) {
 		WebUI.callTestCase(findTestCase('pages/User Login/Input Password'), [('password') : GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("As a user click button login")
-	public void user_click_button_login() {
+	@Then("as user click button login")
+	public void as_user_click_button_login() {
 		WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("As a user click navbar menu")
-	public void user_click_navbar_login() {
-		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Navbar'), [:], FailureHandling.STOP_ON_FAILURE)
+	@Then("user click notification icon")
+	public void user_click_notification_icon() {
+		WebUI.callTestCase(findTestCase('pages/Notification/Click Notification'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("As a user want to click product")
-	public void as_a_user_want_to_click_product() {
-		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Product'), [:], FailureHandling.STOP_ON_FAILURE)
-	}
-	
-	@Then("as a user want to edit product")
-	public void as_a_user_want_to_edit_product() {
-		WebUI.callTestCase(findTestCase('pages/Edit Item/Click to edit item'), [:], FailureHandling.STOP_ON_FAILURE)
-	}
-	
-	@Then("as a user want to click without input product name")
-	public void as_a_user_want_to_click_without_input_product_name() {
-		WebUI.callTestCase(findTestCase('pages/Edit Item/Blank Product Name'), [:], FailureHandling.STOP_ON_FAILURE)
-	}
-	
-	@Then("as a user want delete")
-	public void as_a_user_want_delete() {
-		WebUI.callTestCase(findTestCase('pages/Edit Item/Delete Item'), [:], FailureHandling.STOP_ON_FAILURE)
+	@Then("user click product notification")
+	public void user_click_product_notification() {
+		WebUI.callTestCase(findTestCase('pages/Notification/Click Notification Product'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
-	@Then("As a user verify url should be equals with {string}")
-	public void user_verify_url_should_be_equals_with(String string) {
+	@Then("user click edit product")
+	public void user_click_edit_product() {
+		WebUI.callTestCase(findTestCase('pages/Notification/Edit Notification'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("user click delete product")
+	public void user_click_delete_product() {
+		WebUI.callTestCase(findTestCase('pages/Notification/Delete Notification'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+
+	@Then("as a user verify url should be equals with {string}")
+	public void as_a_user_verify_url_should_be_equals_with(String string) {
+		// Write code here that turns the phrase above into concrete actions
+
+	}
+
+	@Then("As user close browser")
+	public void as_user_close_browser() {
 		// Write code here that turns the phrase above into concrete actions
 
 	}
