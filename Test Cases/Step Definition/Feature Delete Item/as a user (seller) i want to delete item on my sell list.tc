@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>as a user (seller) i want to delete item on my sell list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5215e2-6afd-4363-8859-ace9b6fa68eb</testCaseGuid>
+</TestCaseEntity>

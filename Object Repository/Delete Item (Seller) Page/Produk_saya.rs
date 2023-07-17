@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Produk_saya</name>
+   <tag></tag>
+   <elementGuidId>1b04f716-738a-463c-b256-0279c8c8877f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-list-ul.me-4.me-lg-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e272a91c-7834-473b-bb16-0b45b01d4b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-list-ul me-4 me-lg-0</value>
+      <webElementGuid>c03b0867-bc2c-43fe-b33a-f1d9c7e739fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item me-0 me-lg-2 fs-5&quot;]/a[@class=&quot;nav-link d-flex align-items-center&quot;]/i[@class=&quot;bi bi-list-ul me-4 me-lg-0&quot;]</value>
+      <webElementGuid>a4b3a019-5c4e-4418-ac9e-793774aaa2d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li/a/i</value>
+      <webElementGuid>b3976af2-e7cd-41fe-ad56-f930a8b557b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>b0029d2f-886e-4317-b4bd-c7fdbd9fdc03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

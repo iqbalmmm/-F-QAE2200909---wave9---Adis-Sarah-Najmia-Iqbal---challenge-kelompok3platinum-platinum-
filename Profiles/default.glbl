@@ -24,4 +24,34 @@
       <initValue>90000</initValue>
       <name>Product</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sitinajmia123@gmail.com'</initValue>
+      <name>wrongemail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'salahpassword333'</initValue>
+      <name>wrongpassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Handphone Poco F4'</initValue>
+      <name>search</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bubur Ayam Bekasi'</initValue>
+      <name>Searchunlisted</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Handphone Poco F4'</initValue>
+      <name>Chooseitem</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2000000'</initValue>
+      <name>Hargatawar1</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
