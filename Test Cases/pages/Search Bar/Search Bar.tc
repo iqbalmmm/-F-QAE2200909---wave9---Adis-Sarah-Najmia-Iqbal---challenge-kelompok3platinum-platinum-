@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca8522df-caf5-490c-9bc8-d2991c520f87</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f887ab3a-7cf4-443f-80bf-ba67aaba3e83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f887ab3a-7cf4-443f-80bf-ba67aaba3e83</id>
+      <masked>false</masked>
+      <name>searchitem</name>
+   </variable>
+</TestCaseEntity>

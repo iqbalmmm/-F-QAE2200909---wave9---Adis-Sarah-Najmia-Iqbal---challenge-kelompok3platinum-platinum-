@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative Case : Showing no item in result</description>
+   <name>As a user i want to search unlisted item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b19ff3b4-b748-442c-8d3d-b5c980068ae7</testCaseGuid>
+</TestCaseEntity>
