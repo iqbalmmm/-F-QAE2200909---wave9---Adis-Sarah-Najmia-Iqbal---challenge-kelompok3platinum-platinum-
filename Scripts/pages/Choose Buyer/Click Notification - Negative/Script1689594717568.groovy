@@ -17,5 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Login Page/btn_jual'))
+WebUI.click(findTestObject('Choose Buyer (Neg)/icon_notif (neg)'))
+
+WebUI.click(findTestObject('Choose Buyer (Neg)/desc_product (neg)'))
+
+WebUI.verifyElementVisible(findTestObject('Choose Buyer (Neg)/btn_terima'))
+
+WebUI.click(findTestObject('Choose Buyer (Neg)/btn_terima'))
 

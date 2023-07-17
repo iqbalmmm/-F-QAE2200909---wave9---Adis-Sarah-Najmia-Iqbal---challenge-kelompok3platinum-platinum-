@@ -17,5 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Login Page/btn_jual'))
+WebUI.click(findTestObject('Choose Buyer1/icon_notif'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/Desc_product'))
+
+WebUI.verifyElementVisible(findTestObject('Item Status batalkan transaksi/button_Status'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/button_Status'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/Radiobutton_batalkantransaksi'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/btn_kirim'))
 

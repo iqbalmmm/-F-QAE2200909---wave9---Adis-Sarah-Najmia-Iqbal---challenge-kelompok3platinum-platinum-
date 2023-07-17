@@ -17,5 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Login Page/btn_jual'))
+WebUI.click(findTestObject('Sell List/Daftar List Sale'))
+
+WebUI.verifyElementVisible(findTestObject('Sell List/Ass_lbldaftarjual'))
+
+WebUI.click(findTestObject('Sell List/btn_semuaproduk'))
 

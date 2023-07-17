@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User (Seller) wan to update item status to be cancelled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecb6b990-f95c-4a9b-9012-df3a21d2c301</testCaseGuid>
+</TestCaseEntity>

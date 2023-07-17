@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_terima</name>
+   <tag></tag>
+   <elementGuidId>cbb8e4d5-9a59-453a-9b31-2da6d1832e4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.btn.btn-primary.rounded-4.px-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f28181ee-aeb9-4266-b9cc-8ff37057e779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary rounded-4 px-5</value>
+      <webElementGuid>8d8d6986-258e-482d-b749-81d3d699ef99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>offer_status_accepted</value>
+      <webElementGuid>477b4ece-653e-49b9-8c36-b5488d9a64bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terima</value>
+      <webElementGuid>917fd742-ba87-40ea-b4ad-5f338aeff288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/form[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/label[@class=&quot;btn btn-primary rounded-4 px-5&quot;]</value>
+      <webElementGuid>2bef5a60-1eda-4981-b694-aeb22b535f68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/following::label[1]</value>
+      <webElementGuid>325d98bc-386c-4c2b-a5b5-0fbbf053b25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 56.000'])[1]/following::label[2]</value>
+      <webElementGuid>aaa29251-c579-4fd2-8a12-371edd73e27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::label[1]</value>
+      <webElementGuid>928d38ef-af02-48ba-8e09-b6407951ad17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil terjual'])[1]/preceding::label[1]</value>
+      <webElementGuid>ab0d7325-8bbb-476c-b764-fc635cc35d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terima']/parent::*</value>
+      <webElementGuid>568da7b4-4598-4530-bc1e-16a29a492735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>dc3699b1-e60b-4589-8a77-9285b8f4b217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Terima' or . = 'Terima')]</value>
+      <webElementGuid>9f60a6f3-7aed-4558-a2f0-e0930879b840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
