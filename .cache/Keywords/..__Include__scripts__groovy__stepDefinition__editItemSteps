@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "EB34EB82648FFBE6E0E58AF54DF1E62F",
+  "keywordFileContentHash": "1A4DD64D720B82E2CB53A4FE05EA8167",
   "keywordClasses": [
     {
       "name": "stepDefinition.editItemSteps",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

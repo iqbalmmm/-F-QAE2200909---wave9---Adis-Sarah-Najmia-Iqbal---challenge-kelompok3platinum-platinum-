@@ -27,6 +27,6 @@ Feature: Login
   	When user input email with "you1@gmail.com"
   	And user input password with "123456"
   	Then user click button login 
+  	And user click button logout
   	And user verify url should be equals with "https://secondhand.binaracademy.org/"
   	And As a user close browser 
- 
