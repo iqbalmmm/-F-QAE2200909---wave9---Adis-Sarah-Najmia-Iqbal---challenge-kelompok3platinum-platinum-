@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PAGE TEST</name>
+   <name>Click List</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2c71279b-e825-4028-8ef2-5adbc9e10087</testCaseGuid>
+   <testCaseGuid>37c93ada-00d0-44a9-a616-40ada5800f8b</testCaseGuid>
 </TestCaseEntity>
