@@ -70,10 +70,25 @@ class editItemSteps {
 	public void user_click_navbar_login() {
 		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Navbar'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@Then("As a user want to click product")
 	public void as_a_user_want_to_click_product() {
 		WebUI.callTestCase(findTestCase('pages/Edit Item/Click Product'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@Then("as a user want to edit product")
+	public void as_a_user_want_to_edit_product() {
+		WebUI.callTestCase(findTestCase('pages/Edit Item/Click to edit item'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@Then("as a user want to click without input product name")
+	public void as_a_user_want_to_click_without_input_product_name() {
+		WebUI.callTestCase(findTestCase('pages/Edit Item/Blank Product Name'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+	
+	@Then("as a user want delete")
+	public void as_a_user_want_delete() {
+		WebUI.callTestCase(findTestCase('pages/Edit Item/Delete Item'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@Then("As a user verify url should be equals with {string}")

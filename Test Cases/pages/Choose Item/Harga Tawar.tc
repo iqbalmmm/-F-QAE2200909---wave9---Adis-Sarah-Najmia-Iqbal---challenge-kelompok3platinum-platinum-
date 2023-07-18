@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Harga Tawar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>949b6e16-8065-4c9a-84ff-70e182937bd9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dea5fcff-df59-4413-82bb-8967458d785f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dea5fcff-df59-4413-82bb-8967458d785f</id>
+      <masked>false</masked>
+      <name>hargatawar</name>
+   </variable>
+</TestCaseEntity>
