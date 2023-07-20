@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TRX006 (PositiveCase) - As a user I want to choose my status product as a transaction cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b0f6377-98fc-425f-8a04-7bcb803f3a61</testCaseGuid>
+</TestCaseEntity>

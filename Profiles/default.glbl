@@ -54,4 +54,14 @@
       <initValue>'2000000'</initValue>
       <name>Hargatawar1</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'adisaudyn@gmail.com'</initValue>
+      <name>username_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aaudyn'</initValue>
+      <name>password_2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
