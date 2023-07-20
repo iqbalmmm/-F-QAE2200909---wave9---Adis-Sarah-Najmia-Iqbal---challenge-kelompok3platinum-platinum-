@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD-IT006 (NegativeCase) - As a user I want to add a new items without fills the description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8046e26-3d85-4f3f-9a02-36df3f6c2b07</testCaseGuid>
+</TestCaseEntity>

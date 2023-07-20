@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD-IT008 (PositiveCase) - As a user I want to publish new items</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd64aa5-4968-4299-bee8-4ed8d1094870</testCaseGuid>
+</TestCaseEntity>
