@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>FLT003 - As a user I want to filter products by vehicles</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>2a83f9a2-ec1d-4b70-aa5d-97e50797132a</testCaseGuid>
-</TestCaseEntity>

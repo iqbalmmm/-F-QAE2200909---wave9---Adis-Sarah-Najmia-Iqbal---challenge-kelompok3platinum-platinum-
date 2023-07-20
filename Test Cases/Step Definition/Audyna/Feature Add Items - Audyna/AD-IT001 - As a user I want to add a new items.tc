@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT001 - As a user I want to add a new items</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c296cd30-d663-4171-aa78-19b0c379c3d8</testCaseGuid>
-</TestCaseEntity>
