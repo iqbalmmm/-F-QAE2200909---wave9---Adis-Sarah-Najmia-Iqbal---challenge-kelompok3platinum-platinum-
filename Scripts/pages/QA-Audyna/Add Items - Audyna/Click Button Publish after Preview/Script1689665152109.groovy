@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Audyna/Add Items - Audyna/Button Publish After Preview'))
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/Button Publish After Preview'))
 
-WebUI.click(findTestObject('Audyna/Add Items - Audyna/Button Publish After Preview'))
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/Button Publish After Preview'))
 

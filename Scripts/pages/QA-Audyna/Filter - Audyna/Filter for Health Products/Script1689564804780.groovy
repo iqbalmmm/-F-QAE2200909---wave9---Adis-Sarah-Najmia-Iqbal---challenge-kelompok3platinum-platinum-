@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Audyna/Filter - Audyna/Filter Health'))
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Filter - Audyna/Filter Health'))
 
-WebUI.click(findTestObject('Audyna/Filter - Audyna/Filter Health'))
+WebUI.click(findTestObject('QA-Audyna/Filter - Audyna/Filter Health'))
 
