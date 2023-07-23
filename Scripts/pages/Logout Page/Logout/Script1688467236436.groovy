@@ -17,7 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.verifyElementPresent(findTestObject('Logout Page/Icon Profile'), 0)
+
 WebUI.click(findTestObject('Logout Page/Icon Profile'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Logout Page/button_Keluar (1)'))
 
