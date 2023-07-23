@@ -17,7 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+<<<<<<< HEAD:Scripts/Step Definition/Audyna/Feature Add Items - Audyna/AD-IT001 - As a user I want to add a new items/Script1689652590132.groovy
+=======
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/button_Publish'))
 
-WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/button_Publish'))
 
+<<<<<<< Updated upstream
+>>>>>>> 629e8a9125e13912e9a3d4567b81a194c88bf819:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Button Publish Product/Script1689658260983.groovy
+=======
+>>>>>>> 7b7b0787e851ebb56a5c3ab088f7ce86adc6f788:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Button Publish Product/Script1689658260983.groovy
+>>>>>>> Stashed changes

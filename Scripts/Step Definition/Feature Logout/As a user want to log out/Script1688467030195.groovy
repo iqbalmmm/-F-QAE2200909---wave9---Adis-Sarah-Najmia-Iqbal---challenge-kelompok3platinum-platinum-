@@ -31,7 +31,5 @@ WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHan
 
 WebUI.callTestCase(findTestCase('pages/Logout Page/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('common/Screenshot'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.callTestCase(findTestCase('common/Close Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
