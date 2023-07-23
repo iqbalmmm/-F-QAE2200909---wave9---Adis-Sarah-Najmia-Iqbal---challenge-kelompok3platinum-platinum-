@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "60159FB794DC155E942AC2AEE3DFE2E2",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.deleteitem",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
