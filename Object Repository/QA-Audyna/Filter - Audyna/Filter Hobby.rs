@@ -6,14 +6,6 @@
    <elementGuidId>07bd71f8-36d8-4fcd-84ca-7e1163ee1df3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-alt-primary.col.rounded-4.py-2.px-4.d-inline-flex.align-items-center.false</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[@href='/?category_id=1']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = '/?category_id=1' and (text() = '
         
@@ -22,6 +14,14 @@
         
         Hobi
 ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-alt-primary.col.rounded-4.py-2.px-4.d-inline-flex.align-items-center.false</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>href=&quot;/?category_id=1&quot;</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>627f83b4-b83c-40c0-aae0-dedfcc78a01b</webElementGuid>
+      <webElementGuid>fd6bfd14-8a0c-4e4a-8b03-3adf7badcc20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-alt-primary col rounded-4 py-2 px-4 d-inline-flex align-items-center false</value>
-      <webElementGuid>5f2e80d7-2ebe-4e76-b150-f643709790d1</webElementGuid>
+      <webElementGuid>aba7f28c-981f-406b-9242-5d08f9916754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/?category_id=1</value>
-      <webElementGuid>1db5ce9f-7187-45b1-bf9a-4d93ff4893aa</webElementGuid>
+      <webElementGuid>6d8c90b1-92eb-4c0e-a61c-a155fe335996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
         
         Hobi
 </value>
-      <webElementGuid>be9c7934-8ecc-4d1f-b928-e1fa4033a753</webElementGuid>
+      <webElementGuid>14970435-17a0-4a96-948d-860fc291f2bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container&quot;]/nav[@class=&quot;nav row gap-4 px-2 px-lg-0&quot;]/a[@class=&quot;btn btn-alt-primary col rounded-4 py-2 px-4 d-inline-flex align-items-center false&quot;]</value>
-      <webElementGuid>9dd2efc7-70ae-4247-bae6-6ea2aa60da86</webElementGuid>
+      <webElementGuid>8d41b35d-4b1c-41ac-949f-3535e4c323f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Telusuri Kategori'])[1]/following::a[2]</value>
-      <webElementGuid>296b2543-8ffc-4089-bf32-2f98d6b7aca7</webElementGuid>
+      <webElementGuid>2a5fc30e-0e9c-411f-814e-b2145d48cc1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hobi']/parent::*</value>
-      <webElementGuid>bafb85f5-3a16-498b-a174-4fe43cf4e49a</webElementGuid>
+      <webElementGuid>d187d5de-ea78-4bb0-9dbd-eb6f657abb2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/?category_id=1')]</value>
-      <webElementGuid>4a3b472f-8a2e-4e8c-ba8d-df35c0b213ff</webElementGuid>
+      <webElementGuid>8c88dfd3-b918-4210-96dc-7dfde2075f89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>38e0d7fd-38b5-43d6-9fa5-2c80b510b2bb</webElementGuid>
+      <webElementGuid>fbef28b4-2f2d-4444-93f5-7123238b2358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
         
         Hobi
 ')]</value>
-      <webElementGuid>9732c14d-4b54-48a5-a321-bdf384600798</webElementGuid>
+      <webElementGuid>23bb6062-275b-41d6-9274-f18943335689</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

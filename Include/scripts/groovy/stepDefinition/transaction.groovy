@@ -92,8 +92,7 @@ class transaction {
 
 	@Then("click button for contact via WhatsApp")
 	public void click_button_for_contact_via_WhatsApp() {
-		// Write code here that turns the phrase above into concrete actions
-		throw new PendingException();
+		WebUI.callTestCase(findTestCase('pages/QA-Audyna/Transaction - Audyna/Button for Contact via WhatsApp'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@Then("click button for reject bidding product {int}")
