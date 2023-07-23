@@ -25,5 +25,9 @@ WebUI.click(findTestObject('null'))
 WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
 
 WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+<<<<<<< Updated upstream
 >>>>>>> 629e8a9125e13912e9a3d4567b81a194c88bf819:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Item/Script1689667855945.groovy
+=======
+>>>>>>> 7b7b0787e851ebb56a5c3ab088f7ce86adc6f788:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Item/Script1689667855945.groovy
+>>>>>>> Stashed changes
 
