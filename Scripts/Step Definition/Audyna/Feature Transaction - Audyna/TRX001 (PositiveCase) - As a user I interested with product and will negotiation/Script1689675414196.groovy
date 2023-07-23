@@ -21,13 +21,13 @@ WebUI.callTestCase(findTestCase('common/Launch Browser'), [:], FailureHandling.S
 
 WebUI.callTestCase(findTestCase('common/Navigate To Url'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('pages/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.username_2], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Input Email'), [('email') : GlobalVariable.username_2], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('pages/User Login/Input Password'), [('password') : GlobalVariable.password_2], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Input Password'), [('password') : GlobalVariable.password_2], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Audyna/Transaction - Audyna/Product 1'))
 
