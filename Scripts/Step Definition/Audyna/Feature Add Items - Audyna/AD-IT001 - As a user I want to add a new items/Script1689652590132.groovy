@@ -17,7 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+<<<<<<< HEAD:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Button Publish Product/Script1689658260983.groovy
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/button_Publish'))
 
-WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/button_Publish'))
 
+=======
+>>>>>>> parent of 770464e (Already up to date):Scripts/Step Definition/Audyna/Feature Add Items - Audyna/AD-IT001 - As a user I want to add a new items/Script1689652590132.groovy
