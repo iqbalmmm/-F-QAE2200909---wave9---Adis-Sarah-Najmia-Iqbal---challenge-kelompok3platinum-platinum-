@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Audyna/Add Items - Audyna/select_Category'))
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
 
-WebUI.click(findTestObject('Audyna/Add Items - Audyna/select_Category'))
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
 
-WebUI.waitForElementClickable(findTestObject('Audyna/Add Items - Audyna/select_Category'), 0)
+WebUI.waitForElementClickable(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'), 0)
 
-WebUI.enhancedClick(findTestObject('Audyna/Add Items - Audyna/select_Category'))
+WebUI.enhancedClick(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
 
-WebUI.selectOptionByValue(findTestObject('Audyna/Add Items - Audyna/select_Category'), '1', true)
+WebUI.selectOptionByValue(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'), '1', true)
 

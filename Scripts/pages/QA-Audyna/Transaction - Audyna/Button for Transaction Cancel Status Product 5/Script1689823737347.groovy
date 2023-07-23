@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Audyna/Transaction - Audyna/Button Status Transaction Cancel for Product 5'))
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Transaction - Audyna/Button Status Transaction Cancel for Product 5'))
 
-WebUI.click(findTestObject('Audyna/Transaction - Audyna/Button Status Transaction Cancel for Product 5'))
+WebUI.click(findTestObject('QA-Audyna/Transaction - Audyna/Button Status Transaction Cancel for Product 5'))
 
