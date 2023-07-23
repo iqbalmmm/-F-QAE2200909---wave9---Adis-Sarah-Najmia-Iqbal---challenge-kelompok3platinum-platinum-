@@ -17,7 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+<<<<<<< HEAD:Scripts/pages/QA-Audyna/Filter - Audyna/Filter for All Products/Script1689564804758.groovy
 WebUI.waitForElementClickable(findTestObject('null'), 0)
 
 WebUI.click(findTestObject('null'))
+=======
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/Click Item'))
+>>>>>>> 629e8a9125e13912e9a3d4567b81a194c88bf819:Scripts/pages/QA-Audyna/Add Items - Audyna/Click Item/Script1689667855945.groovy
 

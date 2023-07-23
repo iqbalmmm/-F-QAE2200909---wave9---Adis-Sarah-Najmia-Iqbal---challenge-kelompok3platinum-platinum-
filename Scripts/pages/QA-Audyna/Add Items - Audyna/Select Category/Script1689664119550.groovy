@@ -17,7 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('QA-Audyna/Filter - Audyna/Filter Hobby'))
+WebUI.verifyElementVisible(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
 
-WebUI.click(findTestObject('QA-Audyna/Filter - Audyna/Filter Hobby'))
+WebUI.click(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
+
+WebUI.waitForElementClickable(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'), 0)
+
+WebUI.enhancedClick(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'))
+
+WebUI.selectOptionByValue(findTestObject('QA-Audyna/Add Items - Audyna/select_Category'), '1', true)
 
