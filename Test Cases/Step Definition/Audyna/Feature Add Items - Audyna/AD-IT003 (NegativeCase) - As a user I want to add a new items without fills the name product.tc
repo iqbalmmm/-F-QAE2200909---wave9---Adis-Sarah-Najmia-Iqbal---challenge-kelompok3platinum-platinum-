@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT003 (NegativeCase) - As a user I want to add a new items without fills the name product</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>7d36a6de-828f-4d7a-a6c8-e4e751fb1f1f</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT005 (NegativeCase) - As a user I want to add a new items without fills the category</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e201f1af-219f-4dae-8d9b-387b996f6a9c</testCaseGuid>
-</TestCaseEntity>

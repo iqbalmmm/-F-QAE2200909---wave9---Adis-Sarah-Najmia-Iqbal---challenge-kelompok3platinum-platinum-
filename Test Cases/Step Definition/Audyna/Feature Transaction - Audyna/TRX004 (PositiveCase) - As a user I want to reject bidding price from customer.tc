@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TRX004 (PositiveCase) - As a user I want to reject bidding price from customer</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e1f07b3e-ecc4-4a9a-9a3e-a8360f526996</testCaseGuid>
-</TestCaseEntity>

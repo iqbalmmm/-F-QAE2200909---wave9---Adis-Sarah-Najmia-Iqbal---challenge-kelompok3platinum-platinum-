@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT009 (PositiveCase) - As a user I want to preview new items</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c527219f-1889-41e0-98c5-ca114caadfaa</testCaseGuid>
-</TestCaseEntity>

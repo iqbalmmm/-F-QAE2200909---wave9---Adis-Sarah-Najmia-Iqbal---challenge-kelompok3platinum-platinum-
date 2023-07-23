@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>FLT001 (PositiveCase) - As a user I want to filter products by hobby</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>73fcbfa8-d61a-4753-badd-1a3cc7130fa5</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT001 (PositiveCase) - As a user I want to add a new items with fills the data required</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c693ec0f-8f02-49d8-b1d8-5a86ba13a43a</testCaseGuid>
-</TestCaseEntity>

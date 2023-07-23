@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TRX005 (PositiveCase) - As a user I want to choose my status product as a sold succesfully</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>64e17411-55b3-46d9-9852-96ce047a8b22</testCaseGuid>
-</TestCaseEntity>

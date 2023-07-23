@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>AD-IT007 (NegativeCase) - As a user I want to add a new items without fills the image</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>221a8f46-2abd-4908-ba28-41829df7bb4a</testCaseGuid>
-</TestCaseEntity>
