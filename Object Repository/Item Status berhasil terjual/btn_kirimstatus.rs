@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>radiobutton_berhasilterjual</name>
+   <name>btn_kirimstatus</name>
    <tag></tag>
-   <elementGuidId>66355bc3-51d9-4fef-83b7-210846629b3b</elementGuidId>
+   <elementGuidId>aa286f35-1a4d-44ee-906e-fecd2bfb32b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#offer_status_finished</value>
+         <value>input[name=&quot;commit&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='offer_status_finished']</value>
+         <value>//input[@name='commit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>60e71f1a-760e-4ad9-b6c2-4aae03b0fb83</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-check-input me-2</value>
-      <webElementGuid>765b5074-1d23-47ab-b693-81d6dee12d61</webElementGuid>
+      <webElementGuid>4d969013-4e89-455a-8748-97c60c0140d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>radio</value>
-      <webElementGuid>aaa3f576-6202-4076-b659-a03e240ecf52</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>finished</value>
-      <webElementGuid>c7f55038-19ce-4ed9-8d12-c3e1ea5bd62c</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>15c763be-863a-4b04-a0db-3ad0d1d004b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>offer[status]</value>
-      <webElementGuid>6e7bda18-de55-4309-b916-09866610036c</webElementGuid>
+      <value>commit</value>
+      <webElementGuid>cca966fb-d36a-4b74-94ea-10bf74992db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>offer_status_finished</value>
-      <webElementGuid>7a23e48d-e6bd-484d-a53c-92401ea0ef81</webElementGuid>
+      <value>Kirim</value>
+      <webElementGuid>552de17b-fe7f-454e-a75f-68df46f93818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary p-3 w-100 rounded-4 fw-bold</value>
+      <webElementGuid>1d55c86c-e788-43bf-85f6-c6436ce75602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable-with</name>
+      <type>Main</type>
+      <value>Kirim</value>
+      <webElementGuid>ac2e57dd-d3e1-4229-a565-328b8a77cf74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;statusModal17603&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;modal-content px-4 py-2&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-check&quot;]/input[@id=&quot;offer_status_finished&quot;]</value>
-      <webElementGuid>4b228e30-57de-4f91-9783-57197fab3e2e</webElementGuid>
+      <value>id(&quot;statusModal17887&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;modal-content px-4 py-2&quot;]/div[@class=&quot;modal-footer border-0&quot;]/input[@class=&quot;btn btn-primary p-3 w-100 rounded-4 fw-bold&quot;]</value>
+      <webElementGuid>d936f7ec-a7fd-436c-a3bc-f03614ac65de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='offer_status_finished']</value>
-      <webElementGuid>b18713d7-c0ed-4ad5-a570-8ae9cde2ebaf</webElementGuid>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>38546aad-2bba-4712-a4ad-da70033c6812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='statusModal17603']/div/form/div[2]/div/input</value>
-      <webElementGuid>1d9339e9-51a7-4f9b-aaf9-0209615e9aa8</webElementGuid>
+      <value>//div[@id='statusModal17887']/div/form/div[3]/input</value>
+      <webElementGuid>3cdb3f86-44b2-478b-ab1e-500aac0446b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>544bdc65-c46e-45db-878b-5a7f47546b1a</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>fe296602-ae8b-4a67-bc22-19943d2efefe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'radio' and @name = 'offer[status]' and @id = 'offer_status_finished']</value>
-      <webElementGuid>8a194bd4-51f5-4fbb-8ce0-790092c57652</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'commit']</value>
+      <webElementGuid>874aece4-e254-4fb9-95f2-fa7a8bf485f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

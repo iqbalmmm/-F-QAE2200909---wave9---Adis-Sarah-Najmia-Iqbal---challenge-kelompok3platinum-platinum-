@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Status</name>
    <tag></tag>
-   <elementGuidId>06112ce2-1f1b-453a-818c-eaaf83549891</elementGuidId>
+   <elementGuidId>fe14bd5e-1a36-44cf-bb9d-a007b1cab764</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.btn.btn-outline-primary.fw-bold.rounded-pill.px-4</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>50cb496b-b3f5-4ad0-afe1-e73ec5dedd36</webElementGuid>
+      <webElementGuid>ac9aee0d-0623-4659-943e-1c8c58771ef2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outline-primary fw-bold rounded-pill px-4</value>
-      <webElementGuid>92926b76-0095-4795-961c-b7421d43ff6b</webElementGuid>
+      <webElementGuid>3d89d622-e766-4b12-ad4d-3015512b2860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>806b757c-2a77-4721-8f97-c194c41f6f7e</webElementGuid>
+      <webElementGuid>9247ce85-5bdc-4846-9dc5-0edd3c6312a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-bs-target</name>
       <type>Main</type>
       <value>#statusModal17602</value>
-      <webElementGuid>3fc69c57-2f71-4e59-8e49-5df0fe42e6f0</webElementGuid>
+      <webElementGuid>6721c673-2e1c-44eb-9dcd-f66aaac3c4ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Status</value>
-      <webElementGuid>e2dec47d-9803-410d-b860-03ed928633a2</webElementGuid>
+      <webElementGuid>d3783de3-9f63-40a2-b068-54abcf252a79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/button[@class=&quot;btn btn-outline-primary fw-bold rounded-pill px-4&quot;]</value>
-      <webElementGuid>573bfff5-c423-45d8-87ae-4c826b01116b</webElementGuid>
+      <webElementGuid>8aceaa14-a874-4442-bd6d-5a8626d1e1ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 5.000'])[1]/following::button[1]</value>
-      <webElementGuid>fa54e10f-51ba-4823-bbba-70c044d04e0a</webElementGuid>
+      <webElementGuid>30134364-bfbc-4d21-8137-e18902d888b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,31 +78,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 2.500'])[1]/following::button[1]</value>
-      <webElementGuid>36070e32-7e6d-4696-b707-2953327b85e7</webElementGuid>
+      <webElementGuid>0b073721-9aff-4c37-acb0-4591e1880f32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi di'])[2]/preceding::button[1]</value>
-      <webElementGuid>d1c79c17-3461-4748-951c-bac1985085da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi di'])[1]/preceding::button[1]</value>
+      <webElementGuid>0c7f52cc-931f-4fa4-a4f2-7da86d4e4db0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[2]/preceding::button[2]</value>
-      <webElementGuid>4f5cb5c3-615f-4b99-be9a-69c8ff83e0ab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::button[2]</value>
+      <webElementGuid>1d2e1ca4-332f-4da1-8c66-34c3ffb4f22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status']/parent::*</value>
+      <webElementGuid>cf0738a1-4413-44bc-bcab-dd009e1f8abb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/div/div[3]/button</value>
-      <webElementGuid>547147f6-4786-445c-b7dc-dffae2df6810</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>d1814250-5249-448a-b294-6232fd13cf60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Status' or . = 'Status')]</value>
-      <webElementGuid>181cfbfa-e24f-4a9c-9326-859880338bb0</webElementGuid>
+      <webElementGuid>d46b0861-23db-42df-a068-2bf86be4f91b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

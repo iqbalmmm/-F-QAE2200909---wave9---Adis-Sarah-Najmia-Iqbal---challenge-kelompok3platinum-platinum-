@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_tolak</name>
+   <name>lbl_next1</name>
    <tag></tag>
-   <elementGuidId>80fc684c-016d-44c9-9828-046939b48e21</elementGuidId>
+   <elementGuidId>8a42528c-1401-449f-9f02-03f4694421e0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>label.btn.btn-outline-primary.rounded-4.px-5</value>
+         <value>a.next_page</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 4'])[1]/following::label[1]</value>
+         <value>//a[contains(text(),'Next →')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>a91abd98-2019-4b69-9389-6fd834f0ae59</webElementGuid>
+      <value>a</value>
+      <webElementGuid>f1191eb9-94ce-4aa1-849e-d24452908c2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-primary rounded-4 px-5</value>
-      <webElementGuid>eae4c634-c473-4737-b551-137db25cf530</webElementGuid>
+      <value>next_page</value>
+      <webElementGuid>635c602b-2c4f-4726-9a06-a1587f8016d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>rel</name>
       <type>Main</type>
-      <value>offer_status_denied</value>
-      <webElementGuid>e9c075e0-f186-4800-a5c8-5d0365b1d037</webElementGuid>
+      <value>next</value>
+      <webElementGuid>d55fdc2f-0d1a-4ee7-af33-9b85ad38799c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/notifications?page=2</value>
+      <webElementGuid>78a56d18-007f-44f9-90b0-de4cbe66af55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Tolak</value>
-      <webElementGuid>e1bfd037-556c-4c72-8c48-06a019144a04</webElementGuid>
+      <value>Next →</value>
+      <webElementGuid>f36cea41-a24b-4f85-8ec0-910d1a400e19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/form[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/label[@class=&quot;btn btn-outline-primary rounded-4 px-5&quot;]</value>
-      <webElementGuid>4f1d4fef-821b-44f3-bf57-3afb86c18364</webElementGuid>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/div[@class=&quot;d-flex gap-4 align-items-center justify-content-center my-5&quot;]/a[@class=&quot;next_page&quot;]</value>
+      <webElementGuid>9c848916-9d5b-426e-95a3-0c5c73cc8602</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 4'])[1]/following::label[1]</value>
-      <webElementGuid>d0001b4d-8e2c-460b-96b8-7e37ac9e593e</webElementGuid>
+      <value>//a[contains(text(),'Next →')]</value>
+      <webElementGuid>6f5b6cbe-436b-4508-825d-41a4437ab9fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 2.500'])[1]/following::label[1]</value>
-      <webElementGuid>1e9ab49b-496e-4f44-8918-fa647d02056d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='← Previous'])[1]/following::a[1]</value>
+      <webElementGuid>63ad6f80-ae8e-4fc1-9100-46a8c7051454</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima'])[1]/preceding::label[1]</value>
-      <webElementGuid>863601b5-8c3c-45c9-ab27-f39a5b85e9f6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTRp 11Ditawar Rp 12'])[2]/following::a[1]</value>
+      <webElementGuid>53ae3873-2a34-4ca7-9ee5-f05789cbf4e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::label[2]</value>
-      <webElementGuid>6dee5dae-9f09-40a3-a3e2-7604adb6405f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Next →']/parent::*</value>
+      <webElementGuid>bfefa65d-b633-49cb-bfde-786cb4fdfa55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tolak']/parent::*</value>
-      <webElementGuid>3592e854-e778-4f3e-96e3-c3472fe0f7e5</webElementGuid>
+      <value>//a[contains(@href, '/notifications?page=2')]</value>
+      <webElementGuid>6393479f-bb2c-4066-bc7b-706f34d3ef33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label</value>
-      <webElementGuid>48f37b2b-db64-466f-a7b1-bad94724ae4b</webElementGuid>
+      <value>//section/div/a</value>
+      <webElementGuid>d6576773-f0e5-48a8-9a12-8a3608d90a94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Tolak' or . = 'Tolak')]</value>
-      <webElementGuid>646e6452-2e00-4a11-857d-80e9fc17deb7</webElementGuid>
+      <value>//a[@href = '/notifications?page=2' and (text() = 'Next →' or . = 'Next →')]</value>
+      <webElementGuid>28d6b51e-bc63-4e2d-bff2-7a7949394ef4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

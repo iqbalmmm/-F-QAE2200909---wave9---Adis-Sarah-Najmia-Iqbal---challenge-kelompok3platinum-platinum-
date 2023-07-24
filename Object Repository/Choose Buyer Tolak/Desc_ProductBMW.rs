@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Desc_product</name>
+   <name>Desc_ProductBMW</name>
    <tag></tag>
-   <elementGuidId>5283fb80-7447-4883-8e86-81bd49b6ed2d</elementGuidId>
+   <elementGuidId>5d31ed15-fa50-4453-ad3d-2b79aac310e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(3) > a.notification.my-4.px-2.position-relative > div.notification-body.me-4 > div.notification-body.fs-5</value>
+         <value>div.notification-body.fs-5</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li[3]/a/div/div[2]</value>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ad4c9dc9-f748-483c-9c83-eebbc1526e04</webElementGuid>
+      <webElementGuid>2071ee99-a867-456b-87e8-8fb542d10085</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,39 +30,47 @@
       <name>class</name>
       <type>Main</type>
       <value>notification-body fs-5</value>
-      <webElementGuid>4651490c-dee2-4b70-aa1a-c111a91cf5c2</webElementGuid>
+      <webElementGuid>88b204b5-07fa-447a-831c-e661d3670f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>[sarah] SweeterRp 2.500Ditawar Rp 5.000</value>
-      <webElementGuid>9a1cff61-c498-4a52-b91b-c6d49a860cdb</webElementGuid>
+      <value>[Sarah] BMWRp 500.000.000Ditawar Rp 499.000.000</value>
+      <webElementGuid>35d18545-09f6-4784-af9d-a2bfe2cc81df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[3]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-body me-4&quot;]/div[@class=&quot;notification-body fs-5&quot;]</value>
-      <webElementGuid>02df915b-e332-4008-95f5-afad08d501fd</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-body me-4&quot;]/div[@class=&quot;notification-body fs-5&quot;]</value>
+      <webElementGuid>d840b931-9f47-41a6-9cef-fbf163a794c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li[3]/a/div/div[2]</value>
-      <webElementGuid>52f7c0fa-b579-438e-a153-46c3e71952fb</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div/div[2]</value>
+      <webElementGuid>a92cfa0f-6fdc-4f75-ba32-b28cd56946d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran produk'])[2]/following::div[1]</value>
-      <webElementGuid>50b33864-0e25-4944-99e9-0d9d83e087ea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran produk'])[1]/following::div[1]</value>
+      <webElementGuid>bc461b3c-dbb5-4e8c-bb55-59dfa1dfa720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[2]/following::div[3]</value>
+      <webElementGuid>82b5103c-4351-4806-828f-82db06f148ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[3]/preceding::div[2]</value>
-      <webElementGuid>19df430a-896b-4458-b07b-1ec26d1066e0</webElementGuid>
+      <webElementGuid>5fda4ced-1488-4ec6-aa05-8853bf9c933e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,30 +86,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil di terbitkan'])[1]/preceding::div[2]</value>
-      <webElementGuid>0c01da82-45c5-488a-a331-2e28d670fb03</webElementGuid>
+      <webElementGuid>09b0e242-725a-4170-ac82-1a559fa2a741</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='[sarah] Sweeter']/parent::*</value>
-      <webElementGuid>e5dbb5c4-926c-4662-b555-bb5a1f5d754e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='[Sarah] BMW']/parent::*</value>
+      <webElementGuid>362464bb-288c-4be1-a229-fc8b7721567d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/a/div/div[2]</value>
-      <webElementGuid>be64289b-5275-46f0-ad29-802bfac98559</webElementGuid>
+      <value>//div/div[2]</value>
+      <webElementGuid>fb85c8d6-b40f-427f-a9ba-95a87d9e4d2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '[sarah] SweeterRp 2.500Ditawar Rp 5.000' or . = '[sarah] SweeterRp 2.500Ditawar Rp 5.000')]</value>
-      <webElementGuid>d0d60c37-64b5-4d33-a0c3-c393731e440d</webElementGuid>
+      <value>//div[(text() = '[Sarah] BMWRp 500.000.000Ditawar Rp 499.000.000' or . = '[Sarah] BMWRp 500.000.000Ditawar Rp 499.000.000')]</value>
+      <webElementGuid>dceeb5fa-d849-458e-be01-46f88c2c3585</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

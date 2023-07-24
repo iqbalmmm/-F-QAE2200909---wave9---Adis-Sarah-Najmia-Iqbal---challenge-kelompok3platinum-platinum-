@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Choose Buyer (Neg)/icon_notif (neg)'))
+WebUI.click(findTestObject('Choose Buyer Tolak/Notification'))
 
-WebUI.click(findTestObject('Choose Buyer (Neg)/desc_product (neg)'))
+WebUI.click(findTestObject('Choose Buyer Tolak/Desc_ProductBMW'))
 
-WebUI.verifyElementVisible(findTestObject('Choose Buyer (Neg)/btn_terima'))
+WebUI.verifyElementVisible(findTestObject('Choose Buyer Tolak/Btn_Tolak'))
 
-WebUI.click(findTestObject('Choose Buyer (Neg)/btn_terima'))
+WebUI.click(findTestObject('Choose Buyer Tolak/Btn_Tolak'))
 

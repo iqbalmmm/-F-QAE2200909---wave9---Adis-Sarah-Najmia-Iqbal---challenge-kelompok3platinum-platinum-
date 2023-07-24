@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>User (Seller) accept buyers offers</name>
-   <tag>Positive Test</tag>
+   <tag></tag>
    <comment></comment>
-   <testCaseGuid>8e9124e7-d4e0-48f6-853b-01effabb3df5</testCaseGuid>
+   <testCaseGuid>f77bfcca-d9aa-47bc-8705-972032053069</testCaseGuid>
 </TestCaseEntity>

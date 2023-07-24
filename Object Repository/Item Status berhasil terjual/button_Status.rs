@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Status</name>
    <tag></tag>
-   <elementGuidId>aa3c8620-ee55-4526-97c3-dd990dab980d</elementGuidId>
+   <elementGuidId>57edd6b7-cbda-4dbb-9985-97bdd3648c13</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 50.000'])[1]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 2.200.000'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5b250c50-c954-4dbd-9daf-59a80c4a28bc</webElementGuid>
+      <webElementGuid>8e9b3a91-77c3-4456-b3e6-ace98f069fe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outline-primary fw-bold rounded-pill px-4</value>
-      <webElementGuid>d27eac89-1d11-4a6a-becf-fd888237b7f2</webElementGuid>
+      <webElementGuid>b75ba957-b640-489e-ba18-9b4e910f7061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>4d645fe7-1e9f-4470-94e7-9d085b6dce64</webElementGuid>
+      <webElementGuid>ce150502-caa5-4805-acef-55f14eec3b13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-bs-target</name>
       <type>Main</type>
-      <value>#statusModal17603</value>
-      <webElementGuid>59464f49-3ca6-4fa2-b243-fe2fd12197e0</webElementGuid>
+      <value>#statusModal17887</value>
+      <webElementGuid>f9d12c06-c740-4b62-8903-a6088213b5ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Status</value>
-      <webElementGuid>a9ed2c0b-8d02-453a-bd55-14d9435e2b83</webElementGuid>
+      <webElementGuid>c614e017-c14b-404e-97eb-753dae9c5310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,23 +62,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/button[@class=&quot;btn btn-outline-primary fw-bold rounded-pill px-4&quot;]</value>
-      <webElementGuid>37259188-578c-40e2-a69a-86e2597fbf1e</webElementGuid>
+      <webElementGuid>5012d91a-db74-4f9f-adb4-e7ab7af8b107</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 50.000'])[1]/following::button[1]</value>
-      <webElementGuid>62bacd0e-5fc9-4d71-96a5-506ecda6dfb1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 2.200.000'])[1]/following::button[1]</value>
+      <webElementGuid>529448bc-aec7-45d1-b9ec-a373cae015c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 45.000'])[1]/following::button[1]</value>
-      <webElementGuid>4e1fb039-1e24-4cc8-ac1a-b134166d3a07</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 2.300.000'])[1]/following::button[1]</value>
+      <webElementGuid>88cf7721-faf6-420e-bc5f-72393e444615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi di'])[1]/preceding::button[1]</value>
-      <webElementGuid>e4af22b0-a68d-41f9-893b-b421bcfc81c2</webElementGuid>
+      <webElementGuid>c0994dd8-c145-46e1-beb5-47f72007c2db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::button[2]</value>
-      <webElementGuid>622c785d-c279-4788-a4a0-c61a83dd8d5d</webElementGuid>
+      <webElementGuid>5c5e965b-bb9f-43af-8dde-fc003fd7c045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Status']/parent::*</value>
-      <webElementGuid>cdacfdd8-44e9-4d73-8447-81ab2c7a4adb</webElementGuid>
+      <webElementGuid>7bdffc4f-f624-496f-ab29-8ea958c16120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>645b5938-780d-49a2-91da-39ad413d87e6</webElementGuid>
+      <webElementGuid>3772231c-60b8-41b8-b8d5-46e0bd76a214</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Status' or . = 'Status')]</value>
-      <webElementGuid>76ce8c18-17bb-4a29-b160-bb25135885ec</webElementGuid>
+      <webElementGuid>8c527077-c9cd-4c2b-b13f-0eb5424e0b50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Radiobutton_batalkantransaksi</name>
+   <name>btn_kirimstatus</name>
    <tag></tag>
-   <elementGuidId>1f8e5c70-a9e1-430a-9233-a391353e0da8</elementGuidId>
+   <elementGuidId>0b26a7cb-2372-4592-9f23-129766fe5fdd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#statusModal17602 > div.modal-dialog.modal-dialog-centered > form.modal-content.px-4.py-2 > div.modal-body > div.form-check > #offer_status_cancelled</value>
+         <value>input[name=&quot;commit&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='offer_status_cancelled'])[2]</value>
+         <value>//input[@name='commit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>382defa7-cc4c-4134-ba9f-d59b4d0b60fe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-check-input me-2</value>
-      <webElementGuid>c5e8da3c-cead-4b59-98c5-aaa28800ca8e</webElementGuid>
+      <webElementGuid>7092eb61-6366-4583-b4d1-b869737203a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>radio</value>
-      <webElementGuid>7d3177b0-b61b-4622-b621-b0e9a66557e7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>cancelled</value>
-      <webElementGuid>9f530683-9f3c-4ab5-8b7e-10283554b25d</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>e985891f-5fe1-409e-94a5-cafacc583f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>offer[status]</value>
-      <webElementGuid>c712069f-3e1a-4962-9c66-211e5ca0df12</webElementGuid>
+      <value>commit</value>
+      <webElementGuid>6377f7ec-66d5-463c-9c16-8793cc115d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>offer_status_cancelled</value>
-      <webElementGuid>3874b80c-3ce4-4765-be2a-5ac69f399989</webElementGuid>
+      <value>Kirim</value>
+      <webElementGuid>3ba5a428-00d5-4653-a421-e7f561dd56c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary p-3 w-100 rounded-4 fw-bold</value>
+      <webElementGuid>9adf64fe-4433-4c56-a47c-74bed892cabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable-with</name>
+      <type>Main</type>
+      <value>Kirim</value>
+      <webElementGuid>2d41ff23-2d96-49fb-b173-ecb092c0ef11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;statusModal17602&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;modal-content px-4 py-2&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-check&quot;]/input[@id=&quot;offer_status_cancelled&quot;]</value>
-      <webElementGuid>06a7c006-a3f6-456a-9e5e-46fcc3115309</webElementGuid>
+      <value>id(&quot;statusModal17602&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;modal-content px-4 py-2&quot;]/div[@class=&quot;modal-footer border-0&quot;]/input[@class=&quot;btn btn-primary p-3 w-100 rounded-4 fw-bold&quot;]</value>
+      <webElementGuid>ecb120aa-755d-4a34-99f3-23cf7e4bf384</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@id='offer_status_cancelled'])[2]</value>
-      <webElementGuid>9860468a-489c-49c9-bc32-54b4259d1cc5</webElementGuid>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>10434157-85d9-4c84-b07f-f2e63882be42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='statusModal17602']/div/form/div[2]/div[2]/input</value>
-      <webElementGuid>13d891a3-068c-4454-b125-28e35ccdd964</webElementGuid>
+      <value>//div[@id='statusModal17602']/div/form/div[3]/input</value>
+      <webElementGuid>131660c0-536e-4629-8e7e-63bab0987c4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div[2]/div[2]/input</value>
-      <webElementGuid>152c034d-4b8a-4b7a-8c4e-7c186e436a94</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>d9228add-afba-42ab-99c7-f3916dc5a8c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'radio' and @name = 'offer[status]' and @id = 'offer_status_cancelled']</value>
-      <webElementGuid>3b3e5453-1525-4e14-b381-b4e4c809f7bc</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'commit']</value>
+      <webElementGuid>f172826c-4be3-4a9a-9caa-d5596949f8ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

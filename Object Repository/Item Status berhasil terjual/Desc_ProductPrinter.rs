@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>desc_product (neg)</name>
+   <name>Desc_ProductPrinter</name>
    <tag></tag>
-   <elementGuidId>0ce29a5a-15a6-4509-af6b-99f40040f169</elementGuidId>
+   <elementGuidId>1b6138d5-e5c3-4e7e-850a-cc437de9a4ec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8e114dde-5f2d-4272-8b2f-dc589a072c41</webElementGuid>
+      <webElementGuid>cd394ac5-a2af-4789-a5ae-cef4690c9450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>notification-body fs-5</value>
-      <webElementGuid>3baacfdb-5afd-4dd6-8565-9cc73ef6c8a8</webElementGuid>
+      <webElementGuid>bd413306-b663-4eff-b513-ede910c9b5ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>[sarah] mobilRp 45.000Ditawar Rp 56.000</value>
-      <webElementGuid>395aa745-86f9-4f87-bf2b-9773b049c661</webElementGuid>
+      <value>[Sarah] Printer HPRp 2.300.000Ditawar Rp 2.200.000</value>
+      <webElementGuid>1ccb58e4-e21f-4551-8fda-8aca0b8e4667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-body me-4&quot;]/div[@class=&quot;notification-body fs-5&quot;]</value>
-      <webElementGuid>93e5a0aa-099f-4f62-934c-59bd00b8acc1</webElementGuid>
+      <webElementGuid>5cd31d7d-bdd2-4d0c-871e-0e16286f92be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div/div[2]</value>
-      <webElementGuid>2654f9e4-4e5b-4446-a1a7-574cc79c7cae</webElementGuid>
+      <webElementGuid>7c5b9b03-4252-4d0a-8231-2c3769d39159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran produk'])[1]/following::div[1]</value>
-      <webElementGuid>43e45e03-fc53-43dd-a475-bb653184549e</webElementGuid>
+      <webElementGuid>a6b5a40b-5a1f-47b7-8d85-dc6ebdbc9cdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[2]/following::div[3]</value>
-      <webElementGuid>c630e8a1-6bf4-41db-950b-723978b557b2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[3]/preceding::div[2]</value>
-      <webElementGuid>357c10d3-7d51-4b3d-a831-8c8e51a9288a</webElementGuid>
+      <webElementGuid>b2a4cdfc-a478-4d4d-875a-63757458e711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +78,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil di terbitkan'])[1]/preceding::div[2]</value>
-      <webElementGuid>b6f659a5-e8e4-4080-bcd3-a212e70632ae</webElementGuid>
+      <webElementGuid>2abf1abe-98ae-46d9-baa5-5eb345f2d040</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='[sarah] mobil']/parent::*</value>
-      <webElementGuid>29c291cc-99da-49b1-a3c9-07d2aeb05a1d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Sarah] Printer HPRp 2.300.000'])[1]/preceding::div[3]</value>
+      <webElementGuid>9472fe43-e424-4ed8-a520-2a2ef757db79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Sarah] Printer HP']/parent::*</value>
+      <webElementGuid>d4ef03bc-1fb1-4fc5-9f03-4ec2af95c27b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +102,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]</value>
-      <webElementGuid>20464345-5e37-4801-921d-4ae831337bdf</webElementGuid>
+      <webElementGuid>71de2ee0-3fd9-4d6d-b98c-baa40b6a79fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '[sarah] mobilRp 45.000Ditawar Rp 56.000' or . = '[sarah] mobilRp 45.000Ditawar Rp 56.000')]</value>
-      <webElementGuid>0d3f5390-049d-4c2b-b6e0-056c0ffd1022</webElementGuid>
+      <value>//div[(text() = '[Sarah] Printer HPRp 2.300.000Ditawar Rp 2.200.000' or . = '[Sarah] Printer HPRp 2.300.000Ditawar Rp 2.200.000')]</value>
+      <webElementGuid>a7176ab8-2456-425d-a42c-fc84e7e1e9f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

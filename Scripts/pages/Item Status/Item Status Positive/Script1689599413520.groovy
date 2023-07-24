@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Choose Buyer1/icon_notif'))
+WebUI.click(findTestObject('Item Status berhasil terjual/Notification'))
 
-WebUI.click(findTestObject('Item Status berhasil terjual/desc_product'))
+WebUI.click(findTestObject('Item Status berhasil terjual/Desc_ProductPrinter'))
 
 WebUI.verifyElementVisible(findTestObject('Item Status berhasil terjual/button_Status'))
 
 WebUI.click(findTestObject('Item Status berhasil terjual/button_Status'))
 
-WebUI.click(findTestObject('Item Status berhasil terjual/radiobutton_berhasilterjual'))
+WebUI.click(findTestObject('Item Status berhasil terjual/RadioButton_berhasilterjual'))
 
-WebUI.click(findTestObject('Item Status berhasil terjual/btn_kirim'))
+WebUI.click(findTestObject('Item Status berhasil terjual/btn_kirimstatus'))
 

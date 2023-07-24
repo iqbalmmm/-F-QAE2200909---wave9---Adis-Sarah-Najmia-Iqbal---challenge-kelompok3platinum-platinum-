@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>User (Seller) decline buyers offers</name>
-   <tag>Negative Test</tag>
+   <tag></tag>
    <comment></comment>
-   <testCaseGuid>3513417c-311e-455a-8d0d-cd50d95e11c9</testCaseGuid>
+   <testCaseGuid>2ee1d4b4-11d6-46f2-82c3-8c71987e118d</testCaseGuid>
 </TestCaseEntity>
