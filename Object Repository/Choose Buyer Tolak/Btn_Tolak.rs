@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_terima</name>
+   <name>Btn_Tolak</name>
    <tag></tag>
-   <elementGuidId>cbb8e4d5-9a59-453a-9b31-2da6d1832e4d</elementGuidId>
+   <elementGuidId>ccf21273-fb8c-4f57-819d-e7cb79616cd4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>label.btn.btn-primary.rounded-4.px-5</value>
+         <value>label.btn.btn-outline-primary.rounded-4.px-5</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/following::label[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 499.000.000'])[1]/following::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>f28181ee-aeb9-4266-b9cc-8ff37057e779</webElementGuid>
+      <webElementGuid>d01b0f77-e7ac-41e7-aec3-5146ddb92188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary rounded-4 px-5</value>
-      <webElementGuid>8d8d6986-258e-482d-b749-81d3d699ef99</webElementGuid>
+      <value>btn btn-outline-primary rounded-4 px-5</value>
+      <webElementGuid>a6f51198-60cd-40f1-8e99-499633dc0ae5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>offer_status_accepted</value>
-      <webElementGuid>477b4ece-653e-49b9-8c36-b5488d9a64bc</webElementGuid>
+      <value>offer_status_denied</value>
+      <webElementGuid>6be68e25-29c7-4fd2-a600-c9a8a80c6edc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Terima</value>
-      <webElementGuid>917fd742-ba87-40ea-b4ad-5f338aeff288</webElementGuid>
+      <value>Tolak</value>
+      <webElementGuid>524a95f4-1c66-49dc-95b6-b4eb23a5f10d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/form[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/label[@class=&quot;btn btn-primary rounded-4 px-5&quot;]</value>
-      <webElementGuid>2bef5a60-1eda-4981-b694-aeb22b535f68</webElementGuid>
+      <value>/html[1]/body[1]/section[@class=&quot;pt-5 mt-5&quot;]/section[@class=&quot;container-sm&quot;]/ul[@class=&quot;offers mt-5&quot;]/li[@class=&quot;offer gap-4 mt-5&quot;]/div[@class=&quot;offer-content&quot;]/div[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/form[@class=&quot;offer-footer d-flex gap-2 justify-content-end&quot;]/label[@class=&quot;btn btn-outline-primary rounded-4 px-5&quot;]</value>
+      <webElementGuid>55d0f943-87c4-40bb-b8fa-23b1f58f29ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/following::label[1]</value>
-      <webElementGuid>325d98bc-386c-4c2b-a5b5-0fbbf053b25e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 499.000.000'])[1]/following::label[1]</value>
+      <webElementGuid>a18509d1-a6ab-4dbd-9d01-7fb3e50cbbb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 56.000'])[1]/following::label[2]</value>
-      <webElementGuid>aaa29251-c579-4fd2-8a12-371edd73e27b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 500.000.000'])[1]/following::label[1]</value>
+      <webElementGuid>1f248c09-6a0c-4560-abc1-df5ca259133b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::label[1]</value>
-      <webElementGuid>928d38ef-af02-48ba-8e09-b6407951ad17</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima'])[1]/preceding::label[1]</value>
+      <webElementGuid>aec23e0c-88f5-40a6-aed8-bdb062e3aad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil terjual'])[1]/preceding::label[1]</value>
-      <webElementGuid>ab0d7325-8bbb-476c-b764-fc635cc35d84</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perbarui status penjualan produkmu'])[1]/preceding::label[2]</value>
+      <webElementGuid>7e80d38e-f145-4fc2-b9da-99ba347bd83a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Terima']/parent::*</value>
-      <webElementGuid>568da7b4-4598-4530-bc1e-16a29a492735</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tolak']/parent::*</value>
+      <webElementGuid>000a5d44-1a20-4bb0-b987-ffb408c24847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label[2]</value>
-      <webElementGuid>dc3699b1-e60b-4589-8a77-9285b8f4b217</webElementGuid>
+      <value>//label</value>
+      <webElementGuid>cea8dd60-9bb1-45c0-930f-1f1866074ee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Terima' or . = 'Terima')]</value>
-      <webElementGuid>9f60a6f3-7aed-4558-a2f0-e0930879b840</webElementGuid>
+      <value>//label[(text() = 'Tolak' or . = 'Tolak')]</value>
+      <webElementGuid>a1cabd02-84cf-4eb4-bcb3-c150562d09df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

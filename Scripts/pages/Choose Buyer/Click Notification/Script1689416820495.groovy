@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Choose Buyer1/icon_notif'))
+WebUI.click(findTestObject('Choose Buyer Terima/Notification'))
 
-WebUI.click(findTestObject('Choose Buyer1/desc_product'))
+WebUI.click(findTestObject('Choose Buyer Terima/Desc_ProductIphone'))
 
-WebUI.verifyElementVisible(findTestObject('Choose Buyer1/btn_tolak'))
+WebUI.verifyElementVisible(findTestObject('Choose Buyer Terima/btn_Terima'))
 
-WebUI.click(findTestObject('Choose Buyer1/btn_tolak'))
+WebUI.click(findTestObject('Choose Buyer Terima/btn_Terima'))
 

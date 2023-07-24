@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_kirim</name>
+   <name>Ass_Search</name>
    <tag></tag>
-   <elementGuidId>3ed0ace2-d4da-48aa-a86c-9776971d5e58</elementGuidId>
+   <elementGuidId>20a147ca-cae4-4dc7-9994-b09e459f90ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;commit&quot;]</value>
+         <value>input[name=&quot;q&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='commit']</value>
+         <value>//input[@name='q']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>98b90522-6619-4b93-a7ee-0fd40218cf3d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5648111d-7f6c-4d57-93a0-813fe5a8c3a9</webElementGuid>
+      <webElementGuid>8c39eab8-c848-4d8a-bfd2-269f68cea7bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>commit</value>
-      <webElementGuid>dd08d427-3d15-4b54-a1c7-171a73871d16</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Kirim</value>
-      <webElementGuid>7a838224-6171-4d11-bf14-b628ebbd304a</webElementGuid>
+      <value>q</value>
+      <webElementGuid>58f4422d-3aef-438d-8c18-1002ad5813e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary p-3 w-100 rounded-4 fw-bold</value>
-      <webElementGuid>2aa6fbef-8eab-41bf-adf3-466b73bf90cd</webElementGuid>
+      <value>form-control bg-transparent border-0 form-search</value>
+      <webElementGuid>5169687c-1b72-4ae9-931a-6a0ca7bde8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>3efaea08-83f4-4502-afb5-aca3d48264b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari di sini ...</value>
+      <webElementGuid>b87ee243-6ba9-4251-8d8c-8faba993e238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-disable-with</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>Kirim</value>
-      <webElementGuid>4803fb91-6293-4eb6-bb2f-44c35385ec20</webElementGuid>
+      <value>Search</value>
+      <webElementGuid>6f73045e-e5dc-4460-8c57-400a6a5219b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;statusModal17603&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/form[@class=&quot;modal-content px-4 py-2&quot;]/div[@class=&quot;modal-footer border-0&quot;]/input[@class=&quot;btn btn-primary p-3 w-100 rounded-4 fw-bold&quot;]</value>
-      <webElementGuid>905b13f8-022c-41d4-af1e-38f54d05762d</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/form[@class=&quot;d-flex ms-0 ms-lg-4 my-4 my-lg-0&quot;]/div[@class=&quot;input-group rounded-pill bg-light p-1 search&quot;]/input[@class=&quot;form-control bg-transparent border-0 form-search&quot;]</value>
+      <webElementGuid>04d6f5cf-bddd-4082-84c1-b6dc1dab2e34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='commit']</value>
-      <webElementGuid>4d9cbb4c-afae-41f0-8372-fe961e161ef6</webElementGuid>
+      <value>//input[@name='q']</value>
+      <webElementGuid>81906ff2-d321-4e5b-a3a5-3c70b4e5159c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='statusModal17603']/div/form/div[3]/input</value>
-      <webElementGuid>9c4f9bb6-9447-426b-9d6a-d33e87a400bf</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/form/div/input</value>
+      <webElementGuid>0e2c697d-2bcd-4aab-8aec-6e2db15dc173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>5820f902-8367-4603-abde-ed5befc623f8</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>d70dfa0c-aadb-486f-a5b9-7148b99d1bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'commit']</value>
-      <webElementGuid>5cf38965-7960-440f-8879-95cf18ade4b8</webElementGuid>
+      <value>//input[@name = 'q' and @type = 'search' and @placeholder = 'Cari di sini ...']</value>
+      <webElementGuid>3ed2c262-f5a2-4066-b09f-487ccc0b05fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

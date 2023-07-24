@@ -17,15 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Choose Buyer1/icon_notif'))
+WebUI.click(findTestObject('Item Status batalkan transaksi/Notification'))
 
-WebUI.click(findTestObject('Item Status batalkan transaksi/Desc_product'))
+WebUI.click(findTestObject('Item Status batalkan transaksi/Lbl_Lihatssemuatext'))
 
-WebUI.verifyElementVisible(findTestObject('Item Status batalkan transaksi/button_Status'))
+WebUI.verifyElementVisible(findTestObject('Item Status batalkan transaksi/Ass_Search'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/lbl_next1'))
+
+WebUI.verifyElementVisible(findTestObject('Item Status batalkan transaksi/Ass_Search'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/lbl_next2'))
+
+WebUI.verifyElementVisible(findTestObject('Item Status batalkan transaksi/Ass_Search'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/lbl_next3'))
+
+WebUI.click(findTestObject('Item Status batalkan transaksi/Product_sweeter'))
 
 WebUI.click(findTestObject('Item Status batalkan transaksi/button_Status'))
 
-WebUI.click(findTestObject('Item Status batalkan transaksi/Radiobutton_batalkantransaksi'))
+WebUI.click(findTestObject('Item Status batalkan transaksi/RadioButton_BatalkanTransaksi'))
 
-WebUI.click(findTestObject('Item Status batalkan transaksi/btn_kirim'))
+WebUI.click(findTestObject('Item Status batalkan transaksi/btn_kirimstatus'))
 

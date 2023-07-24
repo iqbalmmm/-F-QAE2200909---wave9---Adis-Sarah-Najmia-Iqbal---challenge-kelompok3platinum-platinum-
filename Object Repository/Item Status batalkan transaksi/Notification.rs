@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>icon_notif (neg)</name>
+   <name>Notification</name>
    <tag></tag>
-   <elementGuidId>1c6e12d8-395e-4dc0-b625-08287204ea5e</elementGuidId>
+   <elementGuidId>1aa0377b-2baa-4caf-b597-c0ae20088f12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>a365a7f3-8f59-4f54-94a1-ddbbe32acb3b</webElementGuid>
+      <webElementGuid>2935238d-a627-4157-b93e-71c2218b8411</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-bell</value>
-      <webElementGuid>1a2b9321-f15d-45de-80b4-b1e894c5fed8</webElementGuid>
+      <webElementGuid>d7bd2043-4543-4d92-8e47-92dda6d4233e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/a[@class=&quot;nav-link dropdown-toggle position-relative show&quot;]/i[@class=&quot;bi bi-bell&quot;]</value>
-      <webElementGuid>3383fc87-f060-4330-a851-c94679e27c93</webElementGuid>
+      <webElementGuid>c0bd3e19-ef2e-4888-b154-154beba4d8e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/a/i</value>
-      <webElementGuid>be081374-a72d-499a-ae63-d2926ceb61e2</webElementGuid>
+      <webElementGuid>4e395ecc-d270-43ac-9441-62d4fc8a390e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/i</value>
-      <webElementGuid>e37dbe65-3919-4f48-bb12-28443829aa22</webElementGuid>
+      <webElementGuid>659df7cc-5ac0-453e-bf2c-1620d4397dde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
