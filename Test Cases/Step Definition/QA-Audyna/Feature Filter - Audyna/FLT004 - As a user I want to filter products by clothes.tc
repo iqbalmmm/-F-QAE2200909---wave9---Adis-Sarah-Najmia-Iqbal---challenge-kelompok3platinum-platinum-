@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FLT004 - As a user I want to filter products by clothes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff12b50a-d067-46dc-ab25-50ceb913919a</testCaseGuid>
+</TestCaseEntity>

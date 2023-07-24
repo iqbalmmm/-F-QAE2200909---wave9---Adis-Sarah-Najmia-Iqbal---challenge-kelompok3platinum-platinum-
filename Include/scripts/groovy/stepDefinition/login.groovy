@@ -47,23 +47,23 @@ class login {
 
 	@When("user click button masuk")
 	public void user_click_button_masuk() {
-		WebUI.callTestCase(findTestCase('pages/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 
 	@When("user input email with {string}")
 	public void user_input_email_with(String email) {
-		WebUI.callTestCase(findTestCase('pages/User Login/Input Email'), [('email') : GlobalVariable.username], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Input Email'), [('email') : GlobalVariable.username], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@When("user input password with {string}")
 	public void user_input_password_with(String password) {
-		WebUI.callTestCase(findTestCase('pages/User Login/Input Password'), [('password') : GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Input Password'), [('password') : GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@Then("user click button login")
 	public void user_click_button_login() {
-		WebUI.callTestCase(findTestCase('pages/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('pages/QA-Najmia/User Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@Then("user verify url should be equals with {string}")
